@@ -10,3 +10,4 @@ Each transformer/custom will have a
 - spells (?)
 - unique health, velocity
 - other abilities like breathing under water / fire resistancy / building abilities / night vision / wall hack / jump height etc... (possibilities are endless).
+- CONFIG FILE
