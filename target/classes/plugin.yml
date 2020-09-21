@@ -1,0 +1,4 @@
+name: Transformers
+version: 1.0
+main: com.yoni.test.Main
+description: Test description
