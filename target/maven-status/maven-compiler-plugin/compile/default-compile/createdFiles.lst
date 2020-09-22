@@ -1,0 +1,12 @@
+com\yoni\test\AbilitySystem\abilities\CobwebShooting$1.class
+com\yoni\test\AbilitySystem\Ability.class
+com\yoni\test\Main$1.class
+com\yoni\test\Main.class
+com\yoni\test\KitSystem\Kit.class
+com\yoni\test\KitSystem\kits\Spider.class
+com\yoni\test\AbilitySystem\AbilityManager.class
+com\yoni\test\KitSystem\KitManager.class
+com\yoni\test\AbilitySystem\abilities\WallClimbing$1.class
+com\yoni\test\AbilitySystem\abilities\CobwebShooting.class
+com\yoni\test\AbilitySystem\abilities\WallClimbing.class
+com\yoni\test\Utils\ItemStackUtil.class

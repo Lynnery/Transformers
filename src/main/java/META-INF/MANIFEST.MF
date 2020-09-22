@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: spigot-1.16.1.jar javassist-3.19.0-GA.jar annotations-2.0.1.
+ jar guava-15.0.jar reflections-0.9.10.jar
+
